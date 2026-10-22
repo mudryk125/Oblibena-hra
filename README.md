@@ -10,3 +10,5 @@ Mindustry je strategická hra, která kombinuje stavění továren, automatizaci
 ![Masivní útok nepřátelských letadel na mě](images/20260906221847_1.jpg)
 ## Užitečné odkazy
 [Stránka Mindustry na itch.io](https://anuke.itch.io/mindustry)
+## Výkonná elektrárna
+![Výkonná elektrárna ve hře Mindustry](images/20260825034435.jpg)
