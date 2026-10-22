@@ -15,3 +15,8 @@ Mindustry je **strategická hra**, která kombinuje stavění továren, automati
 - [Mindustry na Steamu](https://store.steampowered.com/app/1127400/Mindustry/)
 ## Výkonná elektrárna
 ![Výkonná elektrárna ve hře Mindustry](images/20260825034435_1.jpg)
+## Shrnutí
+
+Mindustry je moje oblíbená hra, protože musím přemýšlet nad výrobou i obranou. Líbí se mi, že mohu stále vylepšovat svou základnu a zkoušet nové strategie.
+
+Tento projekt jsem vytvořil jako sve prvni cvičeni na GitHubu.
